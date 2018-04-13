@@ -15,8 +15,8 @@ public class RestClient {
 		//add the query parameter
 		wt.queryParam("productId", "b002");	
 		//create a request and invoke get; the argument of get is the type of return
-		String price = wt.request(MediaType.APPLICATION_XML_TYPE).get(String.class);
-		System.out.println(price);
+		String orders = wt.request(MediaType.APPLICATION_XML_TYPE).get(String.class);
+		System.out.println(orders);
 		
 
 		
