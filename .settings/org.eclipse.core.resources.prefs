@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/bean/BookBean.java=UTF-8
+encoding//src/soap/BookWrapper.java=UTF-8
+encoding//src/soap/ProductCatalog.java=UTF-8
+encoding//src/soap/ProductCatalogService.java=UTF-8
+encoding//src/soap/ProductCatalogServiceLocator.java=UTF-8
+encoding//src/soap/ProductCatalogSoapBindingStub.java=UTF-8
